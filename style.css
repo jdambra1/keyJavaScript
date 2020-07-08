@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding 0px;
+}
+
+
+
+
+.container {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color:slategrey;
+  color:#36ebe5;
+  height: 800px;
+}
+
+.button {
+    position: absolute;
+    top:30px;
+    left: 30px;
+}
+
+.title {
+    position: absolute;
+    top: 20px;
+    left:350px;
+}
+
+.box1 {
+    position: absolute;
+    top: 20px;
+    left:450px;
+}
+
+.box2 {
+    position: absolute;
+    top: 20px;
+    left:555px;
+}
+
+.box3 {
+    position: absolute;
+    top: 20px;
+    left:670px;
+}
+
+.title1 {
+    font-weight: bold;
+}
+
+.title2 {
+    font-weight: bold;
+}
+
+.title3 {
+    font-weight: bold;
+}
+
+.letter {
+    position: absolute;
+    left: 35px;
+}
+
+.code {
+    position: absolute;
+    left: 25px;
+}
+
+.which {
+    position: absolute;
+    left: 40px;
+}
